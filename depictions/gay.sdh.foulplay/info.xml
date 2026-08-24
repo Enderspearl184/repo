@@ -1,0 +1,25 @@
+<package>
+	<id>gay.sdh.foulplay</id>
+	<name>FoulPlay</name>
+	<version>1.1.0-53-debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>15.0</miniOS>
+			<maxOS>15.6</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Statically decrypts all slices of .ipa files. Requires that an app has been properly installed and launched with the same Apple ID in the past. Tested on an iPhone 11 on iOS 15.6 with the Dopamine jailbreak.
+Fork of https://github.com/sdhEmily/FoulPlay that add armv7 and fat binary support. The source repository was co-authored by Claude, but the patch was made with zero AI.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
